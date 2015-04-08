@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/ahowell2/potterapi/issues"
   },
-  "homepage": "https://github.com/ahowell2/potterapi"
+  "homepage": "https://github.com/ahowell2/potterapi",
+  "dependencies": {
+    "express": ">= 1.2.0"
+  }
 }
